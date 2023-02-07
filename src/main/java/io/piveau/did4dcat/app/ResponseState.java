@@ -1,0 +1,1 @@
+package io.piveau.did4dcat.app;public class ResponseState {    public String user;    public String getUser() {        return user;    }}

@@ -1,0 +1,12 @@
+{
+    "WALLET_DIR": "wallet",
+    "PEER_CONFIG": "conf\\connection-org1.yaml",
+    "CHANNEL": "did4dcat",
+    "CA_URL": "https://localhost:7054",
+    "CA_PEM_FILE": "conf\\ca.org1.example.com-cert.pem",
+    "PORT": 8080,
+    "CLI_PORT": 5000,
+    "CHAINCODE": "did4dcat",
+    "ORG_MSP": "Glass01MSP",
+    "ORG_AFFILIATION": "org1.department1"
+}
